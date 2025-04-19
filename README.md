@@ -1,5 +1,9 @@
 # PP3 Phil Reinartz
 
+----
+
+## You have to look in Editor or over Vim, otherwise it looks like crap.
+
 ## Goal
 In this exercise, we will explore how to handle, render and display text-based information from our terminal.
 As ancient as this may seem, the foundation of effective software engineering is a familiarity with the concepts of programmatic text-processing. 
