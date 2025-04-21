@@ -2,7 +2,7 @@
 
 ----
 
-## You have to look in Editor or over Vim, otherwise it looks like crap.
+## You have to look in Editor or over Vim, otherwise it looks not right.
 
 ## Goal
 In this exercise, we will explore how to handle, render and display text-based information from our terminal.
@@ -158,6 +158,10 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 | :----------- | :--------------: | 
 |Hier könnte ihre  |Keine Ahnung ob das geklappt| 
 |Werbung stehen    |hat ich mache das mit vim.  |
+You could also use the html code to make tables or listings. For some
+         uses it makes also sens to mix them, so that you could use the 
+         speed of markdown and the features of html code.
+    
     </code>
 </details>
 
@@ -221,7 +225,7 @@ After it finishes, us `ls` to inspect the directory.
 
 <details>
     <summary>How do you change the name of the pdf-file?</summary>
-    mv example.pdf.pdf example.pdf 
+    mv example.pdf.pdf example.pdf (with this command)
 </details>
 
 ### Task 4: Displaying your pdf
